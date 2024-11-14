@@ -44,6 +44,8 @@
 ###
 
 <br clear="both">
-<img src="https://raw.githubusercontent.com/Kshitij-0710/Kshitij-0710/output/snake.svg" alt="Snake animation" />
+
+![Snake animation](https://github.com/Kshitij-0710/Kshitij-0710/blob/output/github-contribution-grid-snake.svg)
+
 
 ###
