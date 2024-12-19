@@ -48,7 +48,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Kshitij-0710/Kshitij-0710/output/snake.svg" alt="Snake animation" />
 
 ###
 
