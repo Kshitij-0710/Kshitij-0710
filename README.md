@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kshitij-0710&theme=vue-dark&hide_border=false" alt="Kshitij-0710's Streak"/>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Kshitij-0710&theme=dark" alt="GitHub Streak" /></a>
 </div>
 
 ###
