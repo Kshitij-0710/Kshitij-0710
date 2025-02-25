@@ -8,7 +8,13 @@
 
 ###
 
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kshitij-0710&layout=compact&theme=vue-dark" alt="Top Languages" /></a>
+</div>
 
+###
+
+<img align="right" height="150" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif"  />
 
 ### Tech Stack:
 <div align="left">
