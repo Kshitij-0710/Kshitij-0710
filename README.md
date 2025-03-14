@@ -1,6 +1,7 @@
 <h2 align="center">Hey, I am Kshitij Moghe: Full Stack Developer | B.Tech Student at Woxsen University, Hyderabad</h2>
 
 ###
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Kshitij-0710)](https://git.io/streak-stats)
 
 <div align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=Kshitij-0710&theme=vue-dark&hide_border=false" alt="GitHub Streak" /></a>
