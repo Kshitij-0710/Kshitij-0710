@@ -2,11 +2,12 @@
 
 ###
 
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=Kshitij-0710&theme=dark" alt="GitHub Streak" />
-  </a>
-</div>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Kshitij-0710&show_icons=true&theme=dark" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Kshitij-0710&show_icons=true&theme=default" alt="GitHub Stats" />
+  </picture>
+</p>
 
 
 ###
