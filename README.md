@@ -3,10 +3,10 @@
 ###
 
 <p align="center">
-  <!-- GitHub Streak Stats -->
+  <!-- GitHub Activity Graph -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Kshitij-0710&theme=dark" />
-    <img src="https://streak-stats.demolab.com/?user=Kshitij-0710&theme=default" alt="GitHub Streak" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Kshitij-0710&theme=github-dark" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kshitij-0710&theme=light" alt="GitHub Activity Graph" />
   </picture>
 </p>
 
