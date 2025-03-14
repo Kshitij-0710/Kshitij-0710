@@ -3,9 +3,10 @@
 ###
 
 <p align="center">
+  <!-- GitHub Streak Stats -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Kshitij-0710&show_icons=true&theme=dark" />
-    <img src="https://github-readme-stats.vercel.app/api?username=Kshitij-0710&show_icons=true&theme=default" alt="GitHub Stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Kshitij-0710&theme=dark" />
+    <img src="https://streak-stats.demolab.com/?user=Kshitij-0710&theme=default" alt="GitHub Streak" />
   </picture>
 </p>
 
