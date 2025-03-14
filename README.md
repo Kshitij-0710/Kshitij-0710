@@ -3,10 +3,10 @@
 ###
 
 <p align="center">
-  <!-- Contribution Snake Animation -->
+  <!-- GitHub Streak Stats -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kshitij-0710/Kshitij-0710/output/github-contribution-grid-snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/Kshitij-0710/Kshitij-0710/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Kshitij-0710&theme=dark" />
+    <img src="https://streak-stats.demolab.com/?user=Kshitij-0710&theme=default" alt="GitHub Streak" />
   </picture>
 </p>
 
