@@ -6,19 +6,29 @@
 ---
 
 <p align="center">
+  <!-- Profile details -->
   <a href="https://github.com/Kshitij-0710">
     <img
-      src="https://github-readme-stats.vercel.app/api?username=Kshitij-0710&show_icons=true&theme=transparent&hide_border=true"
-      height="165"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kshitij-0710&theme=tokyonight"
+      alt="Profile Details"
+      height="160"
     />
   </a>
+
+  <!-- Top languages -->
   <a href="https://github.com/Kshitij-0710">
     <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kshitij-0710&layout=compact&theme=transparent&hide_border=true"
-      height="165"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kshitij-0710&theme=tokyonight"
+      alt="Languages"
+      height="160"
     />
   </a>
+
+  <!-- Most commit language -->
+
 </p>
+
+
 
 ---
 
