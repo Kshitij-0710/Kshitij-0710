@@ -1,53 +1,68 @@
-<h2 align="center">Hey, I am Kshitij Moghe: Full Stack Developer | B.Tech Student at Woxsen University, Hyderabad</h2>
+<h1 align="center">Hi 👋, I'm Kshitij Moghe</h1>
+<h3 align="center">
+  Full Stack Developer · B.Tech Student @ Woxsen University, Hyderabad
+</h3>
 
-###
+---
 
 <p align="center">
-  <!-- GitHub Streak Stats -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Kshitij-0710&theme=dark" />
-    <img src="https://streak-stats.demolab.com/?user=Kshitij-0710&theme=default" alt="GitHub Streak" />
-  </picture>
+  <a href="https://github.com/Kshitij-0710">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=Kshitij-0710&show_icons=true&theme=transparent&hide_border=true"
+      height="165"
+    />
+  </a>
+  <a href="https://github.com/Kshitij-0710">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kshitij-0710&layout=compact&theme=transparent&hide_border=true"
+      height="165"
+    />
+  </a>
 </p>
 
+---
 
-###
+### 🚀 Tech Stack
 
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kshitij-0710&layout=compact&theme=vue-dark" alt="Top Languages" /></a>
-</div>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="32"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="32"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="32"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="32"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="32"/>
+</p>
 
+---
 
-### Tech Stack:
-<div align="left">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
-   <img width="12" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="Django" />
-   <img width="12" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="Flutter" />
-   <img width="12" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="30" alt="Rust" />
-   <img width="12" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
-   <img width="12" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
-   <img width="12" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
-   <img width="12" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL" />
-   <img width="12" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB" />
-</div>
+### 💡 About Me
 
-### Contact Me:
-<div align="left">
-   <a href="mailto:kshitijmoghe10@gmail.com">
-      <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" />
-   </a>
-   <a href="https://www.linkedin.com/in/kshitij-moghe/">
-      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
-   </a>
-</div>
+- 🔭 Building **scalable web & mobile applications**
+- ⚙️ Backend-focused with **Django & REST APIs**
+- 📱 Cross-platform apps using **Flutter**
+- 🧠 Exploring **Rust, systems & performance**
+- 🎯 Strong focus on **clean architecture & real products**
 
+---
 
-###
+### 📫 Connect With Me
+
+<p align="left">
+  <a href="mailto:kshitijmoghe10@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/kshitij-moghe/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+⭐️ *Always open to collaborating on meaningful projects*
