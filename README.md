@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kshitij Moghe</h1>
 <h3 align="center">
-  Full Stack Developer · B.Tech Student @ Woxsen University, Hyderabad
+  Software Developer · Bengaluru
 </h3>
 
 ---
