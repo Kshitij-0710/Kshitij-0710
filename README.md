@@ -5,127 +5,67 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWg4MXg1c3Q2aTRjNndwdWJ6OWY0em5sYjZrY3g3cnR2dTRqOGQ3NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlQ7LRalQqdWfao/giphy.gif" width="280"/>
+  <i>🎧 Counting Stars — OneRepublic</i>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWg4MXg1c3Q2aTRjNndwdWJ6OWY0em5sYjZrY3g3cnR2dTRqOGQ3NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlQ7LRalQqdWfao/giphy.gif" width="260"/>
 </p>
 
 ---
 
 <p align="center">
-  <a href="https://github.com/Kshitij-0710">
-    <img
-      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kshitij-0710&theme=tokyonight"
-      height="160"
-    />
-  </a>
-
-  <a href="https://github.com/Kshitij-0710">
-    <img
-      src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kshitij-0710&theme=tokyonight"
-      height="160"
-    />
-  </a>
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kshitij-0710&theme=tokyonight"
+    height="170"
+  />
 </p>
 
 <p align="center">
-  <a href="https://github.com/Kshitij-0710">
-    <img
-      src="https://github-readme-streak-stats.herokuapp.com/?user=Kshitij-0710&theme=tokyonight"
-      height="160"
-    />
-  </a>
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kshitij-0710&theme=tokyonight"
+    height="170"
+  />
 </p>
-
 
 ---
 
 ### about me
 
-- i build full-stack apps, backend systems and cloud infrastructure
-- mostly work with django, flutter, docker, postgres, aws and sometimes js stuff
-- also work with golang and rust for systems/performance-focused projects
-- comfortable with kubernetes, gcp, ci/cd and production deployments
-- i like building products end-to-end instead of just isolated features
-- interested in systems, performance, infrastructure and low-level programming
-- i enjoy debugging weird issues probably more than i should
-- a lot of my learning came from deploying things, breaking them and fixing them at 3am
-
----
-
-### stuff i use a lot
-
-<p align="left">
-
-  <!-- languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="34"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="34"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="34"/>
-
-  <!-- backend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="34"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="34"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="34"/>
-
-  <!-- frontend/mobile -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="34"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="34"/>
-
-  <!-- cloud/devops -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="34"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="34"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="34"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="34"/>
-
-  <!-- db -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="34"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="34"/>
-
-</p>
-
----
-
-### current interests
-
 ```bash
-> building products
-> cloud infrastructure
-> distributed systems
-> low-level programming
-> ml + backend systems
-> making things unnecessarily fast
+> building full-stack apps, backend systems & cloud infra
+> django • flutter • docker • postgres • aws
+> golang + rust enjoyer
+> kubernetes, gcp, ci/cd & production deployments
+> sometimes javascript too unfortunately
+> professional docker restarter
+> learned most things by breaking them first
 ```
 
 ---
 
-### let's connect
-
-if you wanna build something cool, talk systems, infra or just nerd out over tech:
+### stuff i use
 
 <p align="left">
-  <a href="mailto:kshitijmoghe10@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" height="48" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/kshitij-moghe/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="48" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=python,django,flutter,react,go,rust,docker,kubernetes,aws,gcp,postgres,redis" />
 </p>
 
 ---
 
-### currently playing
+<p align="left">
+  <a href="mailto:kshitijmoghe10@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" height="42" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/kshitij-moghe/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="42" />
+  </a>
+</p>
+
+---
 
 <p align="center">
   <a href="https://open.spotify.com/track/2tpWsVSb9UEmDRxAl1zhX1">
     <img src="https://img.shields.io/badge/Spotify-Counting%20Stars%20%E2%80%94%20OneRepublic-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
   </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDN5M2p0eTZhN2c5eXQ5NXM2bW45ZXZzYTVla2QxemR2c3k4b2M1eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HgwGsXF0aiGY/giphy.gif" width="260"/>
-</p>
-
-<p align="center">
-  <i>works on my machine 👍</i>
 </p>
