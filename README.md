@@ -21,12 +21,6 @@
   />
 </p>
 
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kshitij-0710&theme=tokyonight"
-    height="170"
-  />
-</p>
 
 ---
 
