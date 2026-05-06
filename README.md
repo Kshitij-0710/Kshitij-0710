@@ -4,11 +4,13 @@
   fullstack dev • cloud enjoyer • professional docker restarter
 </p>
 
+
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWg4MXg1c3Q2aTRjNndwdWJ6OWY0em5sYjZrY3g3cnR2dTRqOGQ3NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlQ7LRalQqdWfao/giphy.gif" width="280"/>
 </p>
 
 ---
+
 ### about me
 
 - i build full-stack apps, backend systems and cloud infrastructure
@@ -19,8 +21,6 @@
 - interested in systems, performance, infrastructure and low-level programming
 - i enjoy debugging weird issues probably more than i should
 - a lot of my learning came from deploying things, breaking them and fixing them at 3am
-
-
 
 ---
 
@@ -66,6 +66,9 @@
 > ml + backend systems
 > making things unnecessarily fast
 ```
+
+---
+
 ### let's connect
 
 if you wanna build something cool, talk systems, infra or just nerd out over tech:
@@ -80,3 +83,11 @@ if you wanna build something cool, talk systems, infra or just nerd out over tec
   </a>
 </p>
 
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDN5M2p0eTZhN2c5eXQ5NXM2bW45ZXZzYTVla2QxemR2c3k4b2M1eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HgwGsXF0aiGY/giphy.gif" width="260"/>
+</p>
+<p align="center">
+  <i>works on my machine 👍</i>
+</p>
