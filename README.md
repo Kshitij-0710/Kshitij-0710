@@ -63,3 +63,18 @@
 > low-level programming
 > ml + backend systems
 > making things unnecessarily fast
+```
+### let's connect
+
+if you wanna build something cool, talk systems, infra or just nerd out over tech:
+
+<p align="left">
+  <a href="mailto:kshitijmoghe10@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" height="48" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/kshitij-moghe/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="48" />
+  </a>
+</p>
+
