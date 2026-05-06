@@ -4,9 +4,6 @@
   fullstack dev • cloud enjoyer • professional docker restarter
 </p>
 
-<p align="center">
-  <i>🎧 Counting Stars — OneRepublic</i>
-</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWg4MXg1c3Q2aTRjNndwdWJ6OWY0em5sYjZrY3g3cnR2dTRqOGQ3NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlQ7LRalQqdWfao/giphy.gif" width="260"/>
