@@ -12,13 +12,14 @@
 ### about me
 
 - i build full-stack apps, backend systems and cloud infrastructure
-- mostly work with django, flutter, react, postgres and distributed systems
-- comfortable with docker, kubernetes, aws, ci/cd and production deployments
+- mostly work with django, flutter, docker, postgres, aws and sometimes js stuff
+- also work with golang and rust for systems/performance-focused projects
+- comfortable with kubernetes, gcp, ci/cd and production deployments
 - i like building products end-to-end instead of just isolated features
 - interested in systems, performance, infrastructure and low-level programming
 - i enjoy debugging weird issues probably more than i should
 - a lot of my learning came from deploying things, breaking them and fixing them at 3am
-- i genuinely just like computer science and making cool things work
+
 
 
 ---
@@ -35,6 +36,7 @@
   <!-- backend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="34"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="34"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="34"/>
 
   <!-- frontend/mobile -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="34"/>
